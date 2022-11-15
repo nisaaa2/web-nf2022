@@ -1,0 +1,27 @@
+.cod{
+    background-color:burlywood;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    padding: 10px;
+}
+.kotak{
+    background-color: orange;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: auto;
+    width: 90%;
+}
+.gambar{
+    text-align: center;
+}
+.isi{
+    first-letter{
+ font-size: xx-large; float-left; line-height: 60px;
+    }
+}
+.koleksi{
+    background-color: black;
+    text-align: center;
+}
