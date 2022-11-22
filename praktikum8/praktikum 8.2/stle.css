@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+
+header{
+    background-color: beige;
+}
+
+main{
+    display: flex;
+    flex:1;
+}
+
+main article{
+    flex:2;
+
+}
+
+ main aside{
+    background-color: plum;
+    flex:1;
+    order: 1;
+}
+
+ main nav{
+    background-color:aqua;
+    flex:1;
+}
+
+ main footer{
+    background-color: bisque;
+    padding: 1rem;
+}
